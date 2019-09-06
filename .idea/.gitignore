@@ -1,3 +1,11 @@
 # Default ignored files
 /workspace.xml
-.idea
+/artifacts/JavaFXApp.xml
+/compiler.xml
+/description.html
+/encodings.xml
+/gradle.xml
+/misc.xml
+/modules.xml
+/uiDesigner.xml
+/vcs.xml
